@@ -1,0 +1,16 @@
+body{
+    background-color: burlywood;
+    
+}
+
+h1{
+    font-size: 30px;
+}
+
+#login_button{
+    background-color: lightpink;
+}
+#chat{
+    width: 500px;
+    length: 500px;
+}
